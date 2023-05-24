@@ -1,5 +1,5 @@
 body {
-  background: #000000;
+  background: #868585;
   margin: 0;
   flex-direction: column;
   }
@@ -19,7 +19,7 @@ body {
   }
   
   .isso{
-    background-color: rgb(216, 216, 216);
+    background-color: rgb(170, 165, 165);
     padding: 10px;
     margin-bottom: 10px;
     margin-top: 10px;
@@ -32,7 +32,7 @@ body {
     
   }
   .isso2{
-      background-color: rgb(219, 219, 219);
+      background-color: rgb(170, 165, 165);
       padding: 10px;
       margin-bottom: 10px;
       margin-top: 10px;
