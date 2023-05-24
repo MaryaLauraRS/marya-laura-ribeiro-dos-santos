@@ -1,3 +1,61 @@
 body {
-  background: #CCC;
-}
+  background: #000000;
+  margin: 0;
+  flex-direction: column;
+  }
+  
+  h2{
+    text-align: center;
+    font-style: light ;
+
+  }
+  p{
+    text-align: center;
+    font-style: light ;
+  }
+
+  .quebra{
+    word-break: break-word;
+  }
+  
+  .isso{
+    background-color: rgb(216, 216, 216);
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 300px;
+    margin-left: 300px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+  }
+  .isso2{
+      background-color: rgb(219, 219, 219);
+      padding: 10px;
+      margin-bottom: 10px;
+      margin-top: 10px;
+      margin-right: 10px;
+      margin-left: 10px;
+      border-radius: 20px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+  }
+  .Produto{
+    display: grid; 
+    padding: 20px;
+    background-color:rgb(255, 255, 255) ;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    flex-direction: column;
+      border-radius: 10px;
+  }
+  .Produto img{
+      width: 70px;
+      height: 50px;
+      margin: auto;
+      display: block;
+  }
